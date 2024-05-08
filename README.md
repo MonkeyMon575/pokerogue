@@ -6,6 +6,7 @@ PokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite
 ## 🛠️ Development
 If you have the motivation and experience with Typescript/Javascript (or are willing to learn) please feel free to fork the repository and make pull requests with contributions. If you don't know what to work on but want to help, reference the below **To-Do** section or the **#vote** channel in the discord. 
 
+
 ### 💻 Environment Setup
 #### Prerequisites
 - node: 18.3.0
